@@ -1,4 +1,4 @@
-"expertData": [
+{"expertData": [
         {
           "complexId": "000012",
           "complexName": "Hydra_1",
@@ -8,3 +8,4 @@
           "scenarioName": "Сценарій валідації #E2431"
         }
       ]
+}
