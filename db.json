@@ -8,5 +8,11 @@
           "scenarioId": "200034",
           "scenarioName": "Сценарій валідації #E2431"
         }
-   ]
+   ],
+  "models": [
+   {
+    "id": 1,
+    "name": "Hydra_1"
+   }
+  ]
  }
