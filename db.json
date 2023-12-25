@@ -1,11 +1,12 @@
-{"expertData": [
-        {
-          "complexId": "000012",
-          "complexName": "Hydra_1",
-          "propertyId": "100034",
-          "propertyName": "Тест",
-          "scenarioId": "200034",
-          "scenarioName": "Сценарій валідації #E2431"
-        }
+{
+        "expertData": [
+                {
+                  "complexId": "000012",
+                  "complexName": "Hydra_1",
+                  "propertyId": "100034",
+                  "propertyName": "Тест",
+                  "scenarioId": "200034",
+                  "scenarioName": "Сценарій валідації #E2431"
+                }
       ]
 }
