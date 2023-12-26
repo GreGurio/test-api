@@ -57,7 +57,7 @@
           "scenarioName": "Сценарій валідації #В341В3"
         },
     {
-          "complexId": "000012",
+          "complexId": "000013",
           "complexName": "Prometeus",
           "propertyId": "100036",
           "propertyName": "Помилка",
@@ -65,7 +65,7 @@
           "scenarioName": "Сценарій валідації #D12DDF"
         },
     {
-          "complexId": "000012",
+          "complexId": "000013",
           "complexName": "Prometeus",
           "propertyId": "100037",
           "propertyName": "На доопрацювання",
@@ -73,7 +73,7 @@
           "scenarioName": "Сценарій валідації #ETD3DF"
         },
     {
-          "complexId": "000012",
+          "complexId": "000014",
           "complexName": "Orbital LC",
           "propertyId": "100035",
           "propertyName": "Успішна верифікація",
@@ -89,7 +89,7 @@
           "scenarioName": "Сценарій валідації #TDMF34"
         },
     {
-          "complexId": "000012",
+          "complexId": "000015",
           "complexName": "Geos",
           "propertyId": "100035",
           "propertyName": "Успішна верифікація",
@@ -97,7 +97,7 @@
           "scenarioName": "Сценарій валідації #J341DF"
         },
     {
-          "complexId": "000012",
+          "complexId": "000015",
           "complexName": "Geos",
           "propertyId": "100035",
           "propertyName": "Успішна верифікація",
@@ -105,7 +105,7 @@
           "scenarioName": "Сценарій валідації #F34143"
         },
     {
-          "complexId": "000012",
+          "complexId": "000015",
           "complexName": "Geos",
           "propertyId": "100037",
           "propertyName": "На доопрацювання",
@@ -113,7 +113,7 @@
           "scenarioName": "Сценарій валідації #DG24ВD"
         },
     {
-          "complexId": "000012",
+          "complexId": "000015",
           "complexName": "Geos",
           "propertyId": "100036",
           "propertyName": "Помилка",
@@ -128,6 +128,51 @@
      "version": "1.0",
      "description": "'Hydra_1' – це сучасне та потужне технічне забезпечення для дослідженн…",
      "manufacturer": "Hydra Technologies",
+     "productionDate": "2022-01-01T00:00:00Z",
+     "frequencyRange": "20 Hz - 20 kHz",
+     "maxDepth": 1000,
+     "communicationInterface": "Ethernet, USB",
+     "powerSupply": "DC - 24V",
+     "certifications": "ISO 9001, CE",
+     "userManualLink": "http://example.com/user-manual",
+     "lastUpdate": "2022-12-01T12:30:00Z"
+   },
+    {
+     "id": 13,
+     "name": "Гідроакустичний Комплекс Prometeus",
+     "version": "1.0",
+     "description": "'Prometeus' – це сучасне та потужне технічне забезпечення для дослідженн…",
+     "manufacturer": "Prometeus Technologies",
+     "productionDate": "2022-01-01T00:00:00Z",
+     "frequencyRange": "20 Hz - 20 kHz",
+     "maxDepth": 1000,
+     "communicationInterface": "Ethernet, USB",
+     "powerSupply": "DC - 24V",
+     "certifications": "ISO 9001, CE",
+     "userManualLink": "http://example.com/user-manual",
+     "lastUpdate": "2022-12-01T12:30:00Z"
+   },
+    {
+     "id": 14,
+     "name": "Гідроакустичний Комплекс Orbital LC",
+     "version": "1.0",
+     "description": "'Orbital LC' – це сучасне та потужне технічне забезпечення для дослідженн…",
+     "manufacturer": "Orbital LC Technologies",
+     "productionDate": "2022-01-01T00:00:00Z",
+     "frequencyRange": "20 Hz - 20 kHz",
+     "maxDepth": 1000,
+     "communicationInterface": "Ethernet, USB",
+     "powerSupply": "DC - 24V",
+     "certifications": "ISO 9001, CE",
+     "userManualLink": "http://example.com/user-manual",
+     "lastUpdate": "2022-12-01T12:30:00Z"
+   },
+    {
+     "id": 15,
+     "name": "Гідроакустичний Комплекс Geos",
+     "version": "1.0",
+     "description": "'Geos' – це сучасне та потужне технічне забезпечення для дослідженн…",
+     "manufacturer": "Geos Technologies",
      "productionDate": "2022-01-01T00:00:00Z",
      "frequencyRange": "20 Hz - 20 kHz",
      "maxDepth": 1000,
